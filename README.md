@@ -113,10 +113,10 @@ I'm a **Full-Stack Developer & Technology Enthusiast** with a Bachelor's Degree 
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-one-theta-p3ybw1kzlt.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thom-huwa-089047350/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/T-Huwa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huwathom@gmail.com)
 
 ## 💡 Fun Facts
 
@@ -134,12 +134,4 @@ I'm a **Full-Stack Developer & Technology Enthusiast** with a Bachelor's Degree 
 
 <div align="center">
   <i>⭐️ From [T-Huwa](https://github.com/T-Huwa)</i>
-</div>
-
-<div align="center">
-  <i>LinkedIn: https://www.linkedin.com/in/thom-huwa-089047350/</i>
-</div>
-
-<div align="center">
-  <i>Email: huwathom@gmail.com</i>
 </div>
