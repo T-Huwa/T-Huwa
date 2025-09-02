@@ -50,14 +50,6 @@ I'm a **Full-Stack Developer & Technology Enthusiast** with a Bachelor's Degree 
 
 ## 🎯 Featured Projects
 
-### 🗳️ E-Voter - Blockchain Voting System
-
-**A secure blockchain-based voting platform for university student council elections**
-
-- **Tech Stack:** Next.js, Node.js, Solidity, Firebase
-- **Features:** Secure blockchain voting, real-time results, student authentication
-- **Category:** Web Application
-
 ### 🏫 Secondary School Management System
 
 **Comprehensive school management solution for tracking students and operations**
